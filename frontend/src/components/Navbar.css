@@ -1,0 +1,13 @@
+button.search {
+    border: none;
+    outline: none;
+    background: none;
+}
+
+button.search:hover {
+    cursor: pointer;
+}
+
+input.search{
+    color: aliceblue;
+}

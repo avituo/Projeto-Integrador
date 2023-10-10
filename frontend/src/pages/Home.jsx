@@ -1,6 +1,8 @@
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <h1 style={{color:'white'}}>HOME</h1>
+    </div>
   )
 }
 
